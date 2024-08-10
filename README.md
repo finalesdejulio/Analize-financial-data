@@ -1,1 +1,1 @@
-# Analize-financial-data
+This is my final exam for the Python programming course. I used the libraries pandas, numpy, yfinance, datetime, and matplotlib to fetch the opening price data of stocks from Microsoft, Taiwan Semiconductor Manufacturing, and GlaxoSmithKline, and then plotted the data in a chart.
